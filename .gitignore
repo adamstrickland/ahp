@@ -1,0 +1,8 @@
+vendor/bundle
+node_modules
+preferences.arc
+.DS_Store
+sam.json
+sam.yaml
+public/statc.json
+**/static.json
