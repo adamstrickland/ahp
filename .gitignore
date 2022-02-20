@@ -6,3 +6,4 @@ sam.json
 sam.yaml
 public/statc.json
 **/static.json
+.envrc
